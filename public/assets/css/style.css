@@ -306,6 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .resume-dwnld {
+  display: flex;
   background: transparent;
   color: #0563bb;
   padding: 10px;
